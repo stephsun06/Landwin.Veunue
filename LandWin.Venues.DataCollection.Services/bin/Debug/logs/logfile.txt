@@ -1,0 +1,1294 @@
+2018-08-30 09:43:48,387 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ILNP009
+2018-08-30 09:43:48,454 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM5T025
+2018-08-30 09:43:48,512 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380683
+2018-08-30 09:43:48,642 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEA025
+2018-08-30 09:43:48,695 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEH055
+2018-08-30 09:43:48,755 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386065
+2018-08-30 09:43:48,888 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379631
+2018-08-30 09:43:49,081 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFR047
+2018-08-30 09:43:49,132 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFS005
+2018-08-30 09:43:49,187 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFU009
+2018-08-30 09:43:49,240 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IP3Z011
+2018-08-30 09:43:49,293 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384581
+2018-08-30 09:43:49,423 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IR6M003
+2018-08-30 09:43:49,477 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRNA031
+2018-08-30 09:43:49,529 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRSY004
+2018-08-30 09:43:49,580 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRT6002
+2018-08-30 09:43:49,631 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382741
+2018-08-30 09:43:49,763 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379864
+2018-08-30 09:43:49,957 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380742
+2018-08-30 09:43:50,215 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386071
+2018-08-30 09:43:50,345 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383575
+2018-08-30 09:43:50,609 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383928
+2018-08-30 09:43:50,799 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385557
+2018-08-30 09:43:50,930 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IW1A006
+2018-08-30 09:43:50,983 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWB2001
+2018-08-30 09:43:51,037 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWH7012
+2018-08-30 09:43:51,088 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379359
+2018-08-30 09:43:51,224 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWO8004
+2018-08-30 09:43:51,276 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWRX007
+2018-08-30 09:43:51,329 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWS9003
+2018-08-30 09:43:51,396 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381384
+2018-08-30 09:43:51,656 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381559
+2018-08-30 09:43:51,927 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382764
+2018-08-30 09:43:52,061 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWUN002
+2018-08-30 09:43:52,116 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IFHX011
+2018-08-30 09:43:52,168 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381499
+2018-08-30 09:43:52,299 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380868
+2018-08-30 09:43:52,500 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379838
+2018-08-30 09:43:52,755 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG14005
+2018-08-30 09:43:52,810 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG5H010
+2018-08-30 09:43:52,874 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG7E019
+2018-08-30 09:43:52,930 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG7E086
+2018-08-30 09:43:52,988 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG7N005
+2018-08-30 09:43:53,048 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IGF8001
+2018-08-30 09:43:53,101 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380265
+2018-08-30 09:43:53,237 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379841
+2018-08-30 09:43:53,374 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382375
+2018-08-30 09:43:53,515 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIJS037
+2018-08-30 09:43:53,575 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKE002
+2018-08-30 09:43:53,628 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379610
+2018-08-30 09:43:53,761 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383778
+2018-08-30 09:43:53,957 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKO014
+2018-08-30 09:43:54,009 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKS013
+2018-08-30 09:43:54,061 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIUU036
+2018-08-30 09:43:54,116 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIUU066
+2018-08-30 09:43:54,168 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383541
+2018-08-30 09:43:54,301 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379611
+2018-08-30 09:43:54,427 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IJSJ056
+2018-08-30 09:43:54,477 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IL40007
+2018-08-30 09:43:54,537 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IL4Z004
+2018-08-30 09:43:54,587 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ILF5005
+2018-08-30 09:43:54,640 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ILF9009
+2018-08-30 09:43:54,695 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381765
+2018-08-30 09:43:54,830 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384358
+2018-08-30 09:43:55,034 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385180
+2018-08-30 09:43:55,170 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383850
+2018-08-30 09:43:55,302 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380888
+2018-08-30 09:43:55,433 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM0K001
+2018-08-30 09:43:55,486 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM1G003
+2018-08-30 09:43:55,540 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379624
+2018-08-30 09:43:55,668 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM64003
+2018-08-30 09:43:55,720 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM7D002
+2018-08-30 09:43:55,773 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385183
+2018-08-30 09:43:55,902 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEP060
+2018-08-30 09:43:55,963 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEV001
+2018-08-30 09:43:56,023 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385275
+2018-08-30 09:43:56,240 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379350
+2018-08-30 09:43:56,373 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFL026
+2018-08-30 09:43:56,423 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFO027
+2018-08-30 09:43:56,476 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383920
+2018-08-30 09:43:56,610 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384947
+2018-08-30 09:43:56,744 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFW015
+2018-08-30 09:43:56,800 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IP1P007
+2018-08-30 09:43:56,853 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IR72008
+2018-08-30 09:43:56,908 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384095
+2018-08-30 09:43:57,042 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRN7018
+2018-08-30 09:43:57,096 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRNA002
+2018-08-30 09:43:57,148 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IROT001
+2018-08-30 09:43:57,212 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380899
+2018-08-30 09:43:57,339 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRTA023
+2018-08-30 09:43:57,396 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381850
+2018-08-30 09:43:57,525 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384958
+2018-08-30 09:43:57,656 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVTF016
+2018-08-30 09:43:57,707 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVVZ007
+2018-08-30 09:43:57,759 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVWC002
+2018-08-30 09:43:57,813 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVYE011
+2018-08-30 09:43:57,867 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVYR002
+2018-08-30 09:43:57,919 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVYR005
+2018-08-30 09:43:57,972 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IW0R041
+2018-08-30 09:43:58,023 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380749
+2018-08-30 09:43:58,154 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381376
+2018-08-30 09:43:58,290 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWA9022
+2018-08-30 09:43:58,341 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWDP014
+2018-08-30 09:43:58,395 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWE6002
+2018-08-30 09:43:58,447 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWG8012
+2018-08-30 09:43:58,501 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWH7004
+2018-08-30 09:43:58,553 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWIN013
+2018-08-30 09:43:58,610 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWJU009
+2018-08-30 09:43:58,661 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWJU021
+2018-08-30 09:43:58,715 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386669
+2018-08-30 09:43:58,854 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381450
+2018-08-30 09:43:59,045 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I3GH021
+2018-08-30 09:43:59,097 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382789
+2018-08-30 09:43:59,293 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I6SH002
+2018-08-30 09:43:59,347 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382355
+2018-08-30 09:43:59,481 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386204
+2018-08-30 09:43:59,614 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382817
+2018-08-30 09:43:59,805 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I6SM037
+2018-08-30 09:43:59,861 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382575
+2018-08-30 09:43:59,990 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384313
+2018-08-30 09:44:00,190 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I8Z0005
+2018-08-30 09:44:00,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380131
+2018-08-30 09:44:00,385 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386146
+2018-08-30 09:44:00,516 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I91K009
+2018-08-30 09:44:00,567 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I91U004
+2018-08-30 09:44:00,620 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384259
+2018-08-30 09:44:00,878 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382585
+2018-08-30 09:44:01,075 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I93G025
+2018-08-30 09:44:01,127 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384260
+2018-08-30 09:44:01,263 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IA3G013
+2018-08-30 09:44:01,318 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386216
+2018-08-30 09:44:01,446 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IA8C013
+2018-08-30 09:44:01,503 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383517
+2018-08-30 09:44:01,631 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IATU001
+2018-08-30 09:44:01,685 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IB41043
+2018-08-30 09:44:01,739 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383342
+2018-08-30 09:44:01,871 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ID3C009
+2018-08-30 09:44:01,922 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ID3C013
+2018-08-30 09:44:01,977 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ID4M007
+2018-08-30 09:44:02,029 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ID4O006
+2018-08-30 09:44:02,086 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IDL4002
+2018-08-30 09:44:02,138 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IFFM004
+2018-08-30 09:44:02,194 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IFHN002
+2018-08-30 09:44:02,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63ILD3001
+2018-08-30 09:44:02,308 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383400
+2018-08-30 09:44:02,442 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384459
+2018-08-30 09:44:02,577 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I05I003
+2018-08-30 09:44:02,630 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383591
+2018-08-30 09:44:02,764 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0F2002
+2018-08-30 09:44:02,816 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386001
+2018-08-30 09:44:02,969 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382057
+2018-08-30 09:44:03,109 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0UF011
+2018-08-30 09:44:03,167 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0X8035
+2018-08-30 09:44:03,170 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.MessageHandlers.CommandMessageHandler - Load Catalog 5b87f29dd2fb0e0e58839aca
+2018-08-30 09:44:03,219 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I1JW029
+2018-08-30 09:44:03,275 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I4UK011
+2018-08-30 09:44:03,333 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385383
+2018-08-30 09:44:03,481 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386048
+2018-08-30 09:44:03,617 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386862
+2018-08-30 09:44:03,752 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IAKJ006
+2018-08-30 09:44:03,807 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IB4A003
+2018-08-30 09:44:03,859 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379546
+2018-08-30 09:44:04,013 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382316
+2018-08-30 09:44:04,197 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384047
+2018-08-30 09:44:04,334 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381715
+2018-08-30 09:44:04,465 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IIAM007
+2018-08-30 09:44:04,522 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379388
+2018-08-30 09:44:04,650 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0GY007
+2018-08-30 09:44:04,704 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384724
+2018-08-30 09:44:04,833 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380031
+2018-08-30 09:44:04,971 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0WL020
+2018-08-30 09:44:05,026 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IFIC050
+2018-08-30 09:44:05,079 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IFIM015
+2018-08-30 09:44:05,154 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG0U020
+2018-08-30 09:44:05,210 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG4F040
+2018-08-30 09:44:05,263 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IG5H002
+2018-08-30 09:44:05,316 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386186
+2018-08-30 09:44:05,446 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379799
+2018-08-30 09:44:05,640 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380214
+2018-08-30 09:44:05,774 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385229
+2018-08-30 09:44:05,975 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IGFW013
+2018-08-30 09:44:06,029 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382857
+2018-08-30 09:44:06,163 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IH0K032
+2018-08-30 09:44:06,215 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IHLD003
+2018-08-30 09:44:06,267 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384347
+2018-08-30 09:44:06,400 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIAR008
+2018-08-30 09:44:06,451 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKH019
+2018-08-30 09:44:06,507 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383552
+2018-08-30 09:44:06,639 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKO011
+2018-08-30 09:44:06,691 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIUX017
+2018-08-30 09:44:06,743 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IJSJ066
+2018-08-30 09:44:06,801 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IJSW002
+2018-08-30 09:44:06,855 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IJT0020
+2018-08-30 09:44:06,910 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380223
+2018-08-30 09:44:07,042 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384413
+2018-08-30 09:44:07,173 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384415
+2018-08-30 09:44:07,300 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380191
+2018-08-30 09:44:07,431 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ILNT005
+2018-08-30 09:44:07,483 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385660
+2018-08-30 09:44:07,621 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382727
+2018-08-30 09:44:07,764 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68ILO6001
+2018-08-30 09:44:07,833 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383637
+2018-08-30 09:44:07,982 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM5T015
+2018-08-30 09:44:08,046 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM7M002
+2018-08-30 09:44:08,101 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383562
+2018-08-30 09:44:08,247 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384420
+2018-08-30 09:44:08,395 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOE9035
+2018-08-30 09:44:08,457 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEN006
+2018-08-30 09:44:08,517 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381536
+2018-08-30 09:44:08,652 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381358
+2018-08-30 09:44:08,791 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385192
+2018-08-30 09:44:08,925 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383565
+2018-08-30 09:44:09,120 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFN010
+2018-08-30 09:44:09,177 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOFR001
+2018-08-30 09:44:09,233 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381271
+2018-08-30 09:44:09,370 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IP25010
+2018-08-30 09:44:09,432 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383923
+2018-08-30 09:44:09,574 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRKM016
+2018-08-30 09:44:09,625 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380234
+2018-08-30 09:44:09,760 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385672
+2018-08-30 09:44:09,898 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379639
+2018-08-30 09:44:10,034 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380741
+2018-08-30 09:44:10,235 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381849
+2018-08-30 09:44:10,368 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IRTA036
+2018-08-30 09:44:10,421 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IVT8030
+2018-08-30 09:44:10,475 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IW1A002
+2018-08-30 09:44:10,528 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383655
+2018-08-30 09:44:10,656 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWDJ022
+2018-08-30 09:44:10,709 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWH7016
+2018-08-30 09:44:10,762 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWHP011
+2018-08-30 09:44:10,813 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381281
+2018-08-30 09:44:10,948 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWJU027
+2018-08-30 09:44:11,001 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWKI005
+2018-08-30 09:44:11,052 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWP2001
+2018-08-30 09:44:11,111 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWPR009
+2018-08-30 09:44:11,163 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWRX012
+2018-08-30 09:44:11,215 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWTO015
+2018-08-30 09:44:11,266 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3H2005
+2018-08-30 09:44:11,321 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382534
+2018-08-30 09:44:11,449 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I4SS003
+2018-08-30 09:44:11,503 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I4UJ003
+2018-08-30 09:44:11,556 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I51X002
+2018-08-30 09:44:11,609 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I5C7007
+2018-08-30 09:44:11,660 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382903
+2018-08-30 09:44:11,791 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I5L7010
+2018-08-30 09:44:11,845 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384840
+2018-08-30 09:44:11,987 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6T9006
+2018-08-30 09:44:12,043 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385753
+2018-08-30 09:44:12,202 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385889
+2018-08-30 09:44:12,335 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I7FF011
+2018-08-30 09:44:12,390 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8YW056
+2018-08-30 09:44:12,445 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8Z0012
+2018-08-30 09:44:12,503 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8Z4011
+2018-08-30 09:44:12,556 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8ZC049
+2018-08-30 09:44:12,607 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8ZL039
+2018-08-30 09:44:12,658 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379473
+2018-08-30 09:44:12,856 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I901073
+2018-08-30 09:44:12,907 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I90C064
+2018-08-30 09:44:12,964 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381190
+2018-08-30 09:44:13,094 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I91S002
+2018-08-30 09:44:13,148 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383461
+2018-08-30 09:44:13,278 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93D007
+2018-08-30 09:44:13,331 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IA2Z002
+2018-08-30 09:44:13,384 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IA4A009
+2018-08-30 09:44:13,436 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383327
+2018-08-30 09:44:13,631 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383466
+2018-08-30 09:44:13,763 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IAG2001
+2018-08-30 09:44:13,833 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381630
+2018-08-30 09:44:13,980 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386557
+2018-08-30 09:44:14,110 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385331
+2018-08-30 09:44:14,244 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ID0W011
+2018-08-30 09:44:14,296 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ID1H032
+2018-08-30 09:44:14,348 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382998
+2018-08-30 09:44:14,482 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IE0O042
+2018-08-30 09:44:14,533 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386439
+2018-08-30 09:44:14,663 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFL001
+2018-08-30 09:44:14,715 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFV002
+2018-08-30 09:44:14,766 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFGE004
+2018-08-30 09:44:14,819 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFGE016
+2018-08-30 09:44:14,871 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH6009
+2018-08-30 09:44:14,921 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH9029
+2018-08-30 09:44:14,974 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFHZ011
+2018-08-30 09:44:15,032 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFI2027
+2018-08-30 09:44:15,082 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFIM012
+2018-08-30 09:44:15,134 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG59003
+2018-08-30 09:44:15,189 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGEX002
+2018-08-30 09:44:15,245 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGF5002
+2018-08-30 09:44:15,295 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGFF039
+2018-08-30 09:44:15,348 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGH4003
+2018-08-30 09:44:15,404 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGZY022
+2018-08-30 09:44:15,455 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IH0H028
+2018-08-30 09:44:15,506 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IH0W004
+2018-08-30 09:44:15,558 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IH0Z004
+2018-08-30 09:44:15,613 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II7W003
+2018-08-30 09:44:15,667 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384017
+2018-08-30 09:44:15,799 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II9J006
+2018-08-30 09:44:15,852 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IJSE003
+2018-08-30 09:44:15,905 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IK28041
+2018-08-30 09:44:15,964 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380375
+2018-08-30 09:44:16,170 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381396
+2018-08-30 09:44:16,306 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381912
+2018-08-30 09:44:16,439 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILF1006
+2018-08-30 09:44:16,493 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILO9002
+2018-08-30 09:44:16,545 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM65004
+2018-08-30 09:44:16,596 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM6A010
+2018-08-30 09:44:16,655 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IODW008
+2018-08-30 09:44:16,709 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IODX037
+2018-08-30 09:44:16,762 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOEI025
+2018-08-30 09:44:16,813 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOER018
+2018-08-30 09:44:16,869 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOES003
+2018-08-30 09:44:16,923 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOF5023
+2018-08-30 09:44:16,976 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379910
+2018-08-30 09:44:17,108 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOFA010
+2018-08-30 09:44:17,161 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOFA012
+2018-08-30 09:44:17,211 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOFR008
+2018-08-30 09:44:17,270 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384209
+2018-08-30 09:44:17,401 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IP0Q019
+2018-08-30 09:44:17,450 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IP3I003
+2018-08-30 09:44:17,506 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IP3U013
+2018-08-30 09:44:17,560 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IR6H013
+2018-08-30 09:44:17,610 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IR6U006
+2018-08-30 09:44:17,665 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IRFB008
+2018-08-30 09:44:17,719 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386787
+2018-08-30 09:44:17,868 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IRSW005
+2018-08-30 09:44:17,928 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382270
+2018-08-30 09:44:18,068 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IVSY017
+2018-08-30 09:44:18,126 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IVUD017
+2018-08-30 09:44:18,193 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW1K008
+2018-08-30 09:44:18,247 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW1K024
+2018-08-30 09:44:18,307 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW3N001
+2018-08-30 09:44:18,362 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW4K015
+2018-08-30 09:44:18,414 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW8H001
+2018-08-30 09:44:18,469 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385619
+2018-08-30 09:44:18,605 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW9X025
+2018-08-30 09:44:18,656 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385455
+2018-08-30 09:44:18,852 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IWC0035
+2018-08-30 09:44:18,913 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-59IRN1001
+2018-08-30 09:44:18,969 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-61I6TA017
+2018-08-30 09:44:19,021 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63I6SR004
+2018-08-30 09:44:19,070 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63I930019
+2018-08-30 09:44:19,135 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63IG0F002
+2018-08-30 09:44:19,198 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64I0W9032
+2018-08-30 09:44:19,251 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385287
+2018-08-30 09:44:19,382 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IAKZ003
+2018-08-30 09:44:19,436 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385295
+2018-08-30 09:44:19,630 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386255
+2018-08-30 09:44:19,770 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IVWA011
+2018-08-30 09:44:19,822 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IVX5002
+2018-08-30 09:44:19,874 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IW54001
+2018-08-30 09:44:19,929 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384448
+2018-08-30 09:44:20,057 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I06X003
+2018-08-30 09:44:20,111 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I0C9001
+2018-08-30 09:44:20,167 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I8YH037
+2018-08-30 09:44:20,223 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379517
+2018-08-30 09:44:20,353 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IG12013
+2018-08-30 09:44:20,405 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63IVVZ040
+2018-08-30 09:44:20,458 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381738
+2018-08-30 09:44:20,595 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64I1L0009
+2018-08-30 09:44:20,652 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I5BS016
+2018-08-30 09:44:20,704 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386239
+2018-08-30 09:44:20,840 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOE6015
+2018-08-30 09:44:20,894 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOEU005
+2018-08-30 09:44:20,945 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385307
+2018-08-30 09:44:21,086 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382117
+2018-08-30 09:44:21,280 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386507
+2018-08-30 09:44:21,416 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382125
+2018-08-30 09:44:21,547 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IGH4016
+2018-08-30 09:44:21,606 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IL6Q001
+2018-08-30 09:44:21,658 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385135
+2018-08-30 09:44:21,792 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IR2A004
+2018-08-30 09:44:21,842 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IR67003
+2018-08-30 09:44:21,911 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IRNO004
+2018-08-30 09:44:21,966 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IRS4019
+2018-08-30 09:44:22,023 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IVMX003
+2018-08-30 09:44:22,075 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384068
+2018-08-30 09:44:22,206 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384050
+2018-08-30 09:44:22,332 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IW4K010
+2018-08-30 09:44:22,385 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383196
+2018-08-30 09:44:22,524 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWBU007
+2018-08-30 09:44:22,578 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWC7005
+2018-08-30 09:44:22,631 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWCC004
+2018-08-30 09:44:22,688 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386880
+2018-08-30 09:44:22,825 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWD7001
+2018-08-30 09:44:22,882 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWF2034
+2018-08-30 09:44:22,935 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWGZ007
+2018-08-30 09:44:22,988 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWHD003
+2018-08-30 09:44:23,044 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382142
+2018-08-30 09:44:23,177 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I05I004
+2018-08-30 09:44:23,231 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381181
+2018-08-30 09:44:23,358 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0EO014
+2018-08-30 09:44:23,413 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382990
+2018-08-30 09:44:23,546 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383323
+2018-08-30 09:44:23,681 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0PY011
+2018-08-30 09:44:23,734 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379761
+2018-08-30 09:44:23,875 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0VL001
+2018-08-30 09:44:23,928 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1K6017
+2018-08-30 09:44:23,985 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386393
+2018-08-30 09:44:24,116 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380757
+2018-08-30 09:44:24,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1VW009
+2018-08-30 09:44:24,303 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1W0016
+2018-08-30 09:44:24,356 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381182
+2018-08-30 09:44:24,487 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I25Z033
+2018-08-30 09:44:24,538 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3EJ047
+2018-08-30 09:44:24,589 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380932
+2018-08-30 09:44:24,721 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I075011
+2018-08-30 09:44:24,773 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0EO002
+2018-08-30 09:44:24,824 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381483
+2018-08-30 09:44:24,954 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380044
+2018-08-30 09:44:25,085 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I1KP013
+2018-08-30 09:44:25,146 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I5CB007
+2018-08-30 09:44:25,199 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379371
+2018-08-30 09:44:25,332 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I8ZW008
+2018-08-30 09:44:25,388 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385879
+2018-08-30 09:44:25,581 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386514
+2018-08-30 09:44:25,779 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66II8W010
+2018-08-30 09:44:25,831 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66II92002
+2018-08-30 09:44:25,885 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IIUH003
+2018-08-30 09:44:25,937 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381212
+2018-08-30 09:44:26,136 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382132
+2018-08-30 09:44:26,334 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384175
+2018-08-30 09:44:26,530 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IOFC010
+2018-08-30 09:44:26,581 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381177
+2018-08-30 09:44:26,715 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IS38031
+2018-08-30 09:44:26,769 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IVZX022
+2018-08-30 09:44:26,822 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385882
+2018-08-30 09:44:26,962 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379396
+2018-08-30 09:44:27,096 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IW6K003
+2018-08-30 09:44:27,151 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383620
+2018-08-30 09:44:27,295 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I075005
+2018-08-30 09:44:27,358 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380032
+2018-08-30 09:44:27,495 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0N6098
+2018-08-30 09:44:27,556 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381569
+2018-08-30 09:44:27,689 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379564
+2018-08-30 09:44:27,835 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385742
+2018-08-30 09:44:27,975 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I4SG013
+2018-08-30 09:44:28,028 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6SQ001
+2018-08-30 09:44:28,079 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6SR035
+2018-08-30 09:44:28,132 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I83R009
+2018-08-30 09:44:28,189 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380323
+2018-08-30 09:44:28,316 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-61I91T024
+2018-08-30 09:44:28,373 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-62I3J4002
+2018-08-30 09:44:28,427 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63IVYZ003
+2018-08-30 09:44:28,480 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380461
+2018-08-30 09:44:28,620 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64I3J7009
+2018-08-30 09:44:28,680 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64I5BG006
+2018-08-30 09:44:28,739 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64I8YC027
+2018-08-30 09:44:28,795 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IVHG001
+2018-08-30 09:44:28,853 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386599
+2018-08-30 09:44:29,003 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I0KA024
+2018-08-30 09:44:29,064 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I0V4036
+2018-08-30 09:44:29,117 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I5K1007
+2018-08-30 09:44:29,173 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382390
+2018-08-30 09:44:29,303 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380472
+2018-08-30 09:44:29,509 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386236
+2018-08-30 09:44:29,656 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386238
+2018-08-30 09:44:29,787 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IFHL007
+2018-08-30 09:44:29,846 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOEK002
+2018-08-30 09:44:29,906 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOEX002
+2018-08-30 09:44:29,969 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOF5015
+2018-08-30 09:44:30,033 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386489
+2018-08-30 09:44:30,172 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IH0K009
+2018-08-30 09:44:30,234 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IH0L034
+2018-08-30 09:44:30,291 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68II9H008
+2018-08-30 09:44:30,351 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382041
+2018-08-30 09:44:30,552 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIJS026
+2018-08-30 09:44:30,618 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKK001
+2018-08-30 09:44:30,674 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381020
+2018-08-30 09:44:30,886 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I0TS014
+2018-08-30 09:44:30,946 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I52L002
+2018-08-30 09:44:31,005 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382388
+2018-08-30 09:44:31,197 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I9MW017
+2018-08-30 09:44:31,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383584
+2018-08-30 09:44:31,507 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IG7F021
+2018-08-30 09:44:31,560 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IGE7019
+2018-08-30 09:44:31,612 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IIAK003
+2018-08-30 09:44:31,666 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IL96005
+2018-08-30 09:44:31,717 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65ILNM002
+2018-08-30 09:44:31,771 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IM1K014
+2018-08-30 09:44:31,829 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IODV043
+2018-08-30 09:44:31,889 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IVHZ006
+2018-08-30 09:44:31,950 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IVRJ009
+2018-08-30 09:44:32,013 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IWFL001
+2018-08-30 09:44:32,072 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0FH004
+2018-08-30 09:44:32,124 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0HU007
+2018-08-30 09:44:32,175 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381484
+2018-08-30 09:44:32,313 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382302
+2018-08-30 09:44:32,512 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0UK004
+2018-08-30 09:44:32,562 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I3EC001
+2018-08-30 09:44:32,615 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I4OZ019
+2018-08-30 09:44:32,670 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381027
+2018-08-30 09:44:32,864 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I4UG003
+2018-08-30 09:44:32,915 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385067
+2018-08-30 09:44:33,048 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381074
+2018-08-30 09:44:33,304 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IAKE003
+2018-08-30 09:44:33,356 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWC2011
+2018-08-30 09:44:33,409 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380029
+2018-08-30 09:44:33,540 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381199
+2018-08-30 09:44:33,734 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I047005
+2018-08-30 09:44:33,785 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I04Y014
+2018-08-30 09:44:33,838 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381920
+2018-08-30 09:44:33,975 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384070
+2018-08-30 09:44:34,114 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0D1004
+2018-08-30 09:44:34,165 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0GY003
+2018-08-30 09:44:34,218 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384042
+2018-08-30 09:44:34,351 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0HT002
+2018-08-30 09:44:34,402 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1L8007
+2018-08-30 09:44:34,454 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3GB014
+2018-08-30 09:44:34,508 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3KN002
+2018-08-30 09:44:34,560 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I51K003
+2018-08-30 09:44:34,611 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-62ILM9001
+2018-08-30 09:44:34,664 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-62ILMQ004
+2018-08-30 09:44:34,717 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63I0V6031
+2018-08-30 09:44:34,770 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-63IM1K002
+2018-08-30 09:44:34,821 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380980
+2018-08-30 09:44:34,960 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IA30001
+2018-08-30 09:44:35,015 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IFFX001
+2018-08-30 09:44:35,064 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IH10002
+2018-08-30 09:44:35,119 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381137
+2018-08-30 09:44:35,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IH0H002
+2018-08-30 09:44:35,312 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68II8V007
+2018-08-30 09:44:35,370 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380173
+2018-08-30 09:44:35,563 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379967
+2018-08-30 09:44:35,759 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386605
+2018-08-30 09:44:35,891 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384568
+2018-08-30 09:44:36,082 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380680
+2018-08-30 09:44:36,274 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIKO009
+2018-08-30 09:44:36,334 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IIUX002
+2018-08-30 09:44:36,385 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IJSX015
+2018-08-30 09:44:36,441 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IL5A002
+2018-08-30 09:44:36,502 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IL5Z003
+2018-08-30 09:44:36,562 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380184
+2018-08-30 09:44:36,761 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380279
+2018-08-30 09:44:36,892 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381322
+2018-08-30 09:44:37,025 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM54007
+2018-08-30 09:44:37,076 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IM5B003
+2018-08-30 09:44:37,130 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IODX021
+2018-08-30 09:44:37,183 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IODX028
+2018-08-30 09:44:37,237 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOE9016
+2018-08-30 09:44:37,291 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEA036
+2018-08-30 09:44:37,347 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEH065
+2018-08-30 09:44:37,400 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IOEU003
+2018-08-30 09:44:37,454 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386247
+2018-08-30 09:44:37,584 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I93D005
+2018-08-30 09:44:37,635 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386007
+2018-08-30 09:44:37,767 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386771
+2018-08-30 09:44:37,902 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385856
+2018-08-30 09:44:38,034 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IAHW013
+2018-08-30 09:44:38,088 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IBQ8007
+2018-08-30 09:44:38,142 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382060
+2018-08-30 09:44:38,271 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386242
+2018-08-30 09:44:38,408 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381086
+2018-08-30 09:44:38,538 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386864
+2018-08-30 09:44:38,670 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IFH9022
+2018-08-30 09:44:38,722 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383174
+2018-08-30 09:44:38,855 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379380
+2018-08-30 09:44:38,989 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IGZ9004
+2018-08-30 09:44:39,042 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IIAW002
+2018-08-30 09:44:39,097 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IKZY006
+2018-08-30 09:44:39,147 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381096
+2018-08-30 09:44:39,285 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66ILMM017
+2018-08-30 09:44:39,336 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66ILNC015
+2018-08-30 09:44:39,389 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IMAV011
+2018-08-30 09:44:39,446 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IOE9040
+2018-08-30 09:44:39,498 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IR6H008
+2018-08-30 09:44:39,554 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IRL6018
+2018-08-30 09:44:39,610 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IRS4017
+2018-08-30 09:44:39,663 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IVU2007
+2018-08-30 09:44:39,716 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IW4C001
+2018-08-30 09:44:39,769 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385861
+2018-08-30 09:44:39,907 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWAX005
+2018-08-30 09:44:39,959 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWBQ006
+2018-08-30 09:44:40,013 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWEN002
+2018-08-30 09:44:40,067 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384039
+2018-08-30 09:44:40,197 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I01Z045
+2018-08-30 09:44:40,255 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I01Z063
+2018-08-30 09:44:40,307 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I04Y018
+2018-08-30 09:44:40,360 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I06X004
+2018-08-30 09:44:40,413 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0AQ002
+2018-08-30 09:44:40,466 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0C4001
+2018-08-30 09:44:40,521 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0E6009
+2018-08-30 09:44:40,576 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379468
+2018-08-30 09:44:40,707 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379557
+2018-08-30 09:44:40,840 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380867
+2018-08-30 09:44:40,970 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0HD102
+2018-08-30 09:44:41,026 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0KA006
+2018-08-30 09:44:41,081 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0KA016
+2018-08-30 09:44:41,135 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380074
+2018-08-30 09:44:41,273 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383433
+2018-08-30 09:44:41,399 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0QB017
+2018-08-30 09:44:41,457 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1JW048
+2018-08-30 09:44:41,507 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1K6027
+2018-08-30 09:44:41,558 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3EA004
+2018-08-30 09:44:41,608 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3FY008
+2018-08-30 09:44:41,663 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386395
+2018-08-30 09:44:41,791 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384188
+2018-08-30 09:44:41,926 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380305
+2018-08-30 09:44:42,122 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I4UK009
+2018-08-30 09:44:42,177 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I4UK011
+2018-08-30 09:44:42,233 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382071
+2018-08-30 09:44:42,366 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I531003
+2018-08-30 09:44:42,417 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I5BU009
+2018-08-30 09:44:42,471 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386641
+2018-08-30 09:44:42,598 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6SH017
+2018-08-30 09:44:42,653 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386549
+2018-08-30 09:44:42,780 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 387042
+2018-08-30 09:44:42,916 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385418
+2018-08-30 09:44:43,046 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I845006
+2018-08-30 09:44:43,101 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8YC062
+2018-08-30 09:44:43,155 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8YN049
+2018-08-30 09:44:43,206 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386283
+2018-08-30 09:44:43,339 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383454
+2018-08-30 09:44:43,473 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380092
+2018-08-30 09:44:43,695 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I91L027
+2018-08-30 09:44:43,764 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379970
+2018-08-30 09:44:43,908 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I92Y008
+2018-08-30 09:44:43,978 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93I007
+2018-08-30 09:44:44,039 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IADG037
+2018-08-30 09:44:44,105 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IAHH002
+2018-08-30 09:44:44,162 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383790
+2018-08-30 09:44:44,292 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IBQT008
+2018-08-30 09:44:44,346 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ICCG019
+2018-08-30 09:44:44,400 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386437
+2018-08-30 09:44:44,529 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IDLI002
+2018-08-30 09:44:44,586 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IE0R006
+2018-08-30 09:44:44,653 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IE1B023
+2018-08-30 09:44:44,720 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFR002
+2018-08-30 09:44:44,780 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFG8002
+2018-08-30 09:44:44,834 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH2029
+2018-08-30 09:44:44,884 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH9008
+2018-08-30 09:44:44,941 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH9038
+2018-08-30 09:44:44,997 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381946
+2018-08-30 09:44:45,194 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380351
+2018-08-30 09:44:45,352 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFIF003
+2018-08-30 09:44:45,415 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFIG006
+2018-08-30 09:44:45,470 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379582
+2018-08-30 09:44:45,677 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG5H006
+2018-08-30 09:44:45,738 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG7E022
+2018-08-30 09:44:45,803 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGFB007
+2018-08-30 09:44:45,854 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IH0J006
+2018-08-30 09:44:45,912 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383264
+2018-08-30 09:44:46,045 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IA7M010
+2018-08-30 09:44:46,099 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379773
+2018-08-30 09:44:46,244 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IA8C007
+2018-08-30 09:44:46,303 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386556
+2018-08-30 09:44:46,441 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IABC006
+2018-08-30 09:44:46,494 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386294
+2018-08-30 09:44:46,720 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IDM8007
+2018-08-30 09:44:46,780 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IDON001
+2018-08-30 09:44:46,835 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFV011
+2018-08-30 09:44:46,887 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFV027
+2018-08-30 09:44:46,939 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386709
+2018-08-30 09:44:47,075 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384131
+2018-08-30 09:44:47,217 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381808
+2018-08-30 09:44:47,349 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFI9042
+2018-08-30 09:44:47,410 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG62002
+2018-08-30 09:44:47,465 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383068
+2018-08-30 09:44:47,600 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IIAR004
+2018-08-30 09:44:47,657 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IL5Z017
+2018-08-30 09:44:47,713 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IL6T028
+2018-08-30 09:44:47,765 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IL7P013
+2018-08-30 09:44:47,823 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IL7P018
+2018-08-30 09:44:47,901 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384195
+2018-08-30 09:44:48,087 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM09044
+2018-08-30 09:44:48,150 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOEI023
+2018-08-30 09:44:48,217 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383016
+2018-08-30 09:44:48,358 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380390
+2018-08-30 09:44:48,487 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOEP044
+2018-08-30 09:44:48,540 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOFD021
+2018-08-30 09:44:48,591 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IR6Z004
+2018-08-30 09:44:48,648 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IRSJ017
+2018-08-30 09:44:48,700 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IS34026
+2018-08-30 09:44:48,762 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383824
+2018-08-30 09:44:48,900 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IVU5007
+2018-08-30 09:44:48,954 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IVXS002
+2018-08-30 09:44:49,007 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IVZX008
+2018-08-30 09:44:49,064 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IW8S005
+2018-08-30 09:44:49,121 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381430
+2018-08-30 09:44:49,254 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IWK1032
+2018-08-30 09:44:49,308 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386650
+2018-08-30 09:44:49,439 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385893
+2018-08-30 09:44:49,567 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379806
+2018-08-30 09:44:49,702 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I1L2023
+2018-08-30 09:44:49,757 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I1W1017
+2018-08-30 09:44:49,816 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383499
+2018-08-30 09:44:49,957 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I1VD002
+2018-08-30 09:44:50,012 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I8Z6008
+2018-08-30 09:44:50,066 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385764
+2018-08-30 09:44:50,197 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOE5008
+2018-08-30 09:44:50,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IOER018
+2018-08-30 09:44:50,305 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I06X019
+2018-08-30 09:44:50,357 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0D0010
+2018-08-30 09:44:50,409 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0HD065
+2018-08-30 09:44:50,464 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0VR026
+2018-08-30 09:44:50,517 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386261
+2018-08-30 09:44:50,651 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I3JI013
+2018-08-30 09:44:50,705 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I4PR018
+2018-08-30 09:44:50,755 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 387091
+2018-08-30 09:44:50,890 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I91S007
+2018-08-30 09:44:50,942 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379378
+2018-08-30 09:44:51,137 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384820
+2018-08-30 09:44:51,270 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379750
+2018-08-30 09:44:51,405 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IFI1002
+2018-08-30 09:44:51,463 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382895
+2018-08-30 09:44:51,787 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383179
+2018-08-30 09:44:51,919 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IODV016
+2018-08-30 09:44:51,971 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IVI5002
+2018-08-30 09:44:52,023 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 387039
+2018-08-30 09:44:52,154 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383971
+2018-08-30 09:44:52,407 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383191
+2018-08-30 09:44:52,538 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IW0L018
+2018-08-30 09:44:52,588 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IW6E050
+2018-08-30 09:44:52,641 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWA9002
+2018-08-30 09:44:52,696 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWCC008
+2018-08-30 09:44:52,755 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384721
+2018-08-30 09:44:52,892 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382065
+2018-08-30 09:44:53,033 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IWGJ001
+2018-08-30 09:44:53,083 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I01V020
+2018-08-30 09:44:53,138 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I04Y077
+2018-08-30 09:44:53,191 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385866
+2018-08-30 09:44:53,404 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381180
+2018-08-30 09:44:53,545 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0EO015
+2018-08-30 09:44:53,598 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386678
+2018-08-30 09:44:53,730 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0HU004
+2018-08-30 09:44:53,785 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0IZ034
+2018-08-30 09:44:53,839 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0KA017
+2018-08-30 09:44:53,892 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381567
+2018-08-30 09:44:54,090 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I0PQ006
+2018-08-30 09:44:54,143 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I1JW023
+2018-08-30 09:44:54,196 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3JI009
+2018-08-30 09:44:54,251 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I3KN012
+2018-08-30 09:44:54,304 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380763
+2018-08-30 09:44:54,501 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I51A031
+2018-08-30 09:44:54,552 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I51M029
+2018-08-30 09:44:54,608 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I51O022
+2018-08-30 09:44:54,660 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6SI016
+2018-08-30 09:44:54,711 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6SJ034
+2018-08-30 09:44:54,763 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383048
+2018-08-30 09:44:54,895 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383229
+2018-08-30 09:44:55,030 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381615
+2018-08-30 09:44:55,163 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6T8001
+2018-08-30 09:44:55,228 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I6TB013
+2018-08-30 09:44:55,283 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I7FE033
+2018-08-30 09:44:55,336 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385077
+2018-08-30 09:44:55,535 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379768
+2018-08-30 09:44:55,680 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I846013
+2018-08-30 09:44:55,741 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380315
+2018-08-30 09:44:55,885 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381618
+2018-08-30 09:44:56,037 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382182
+2018-08-30 09:44:56,168 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8ZC016
+2018-08-30 09:44:56,227 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I8ZW001
+2018-08-30 09:44:56,279 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383239
+2018-08-30 09:44:56,452 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I90C072
+2018-08-30 09:44:56,507 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I91T001
+2018-08-30 09:44:56,563 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I930015
+2018-08-30 09:44:56,628 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381625
+2018-08-30 09:44:56,756 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93D005
+2018-08-30 09:44:56,809 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93E043
+2018-08-30 09:44:56,865 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93G015
+2018-08-30 09:44:56,920 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67I93G035
+2018-08-30 09:44:56,972 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IA0Y004
+2018-08-30 09:44:57,033 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382548
+2018-08-30 09:44:57,163 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381933
+2018-08-30 09:44:57,362 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385086
+2018-08-30 09:44:57,496 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386371
+2018-08-30 09:44:57,626 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379976
+2018-08-30 09:44:57,757 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ID4M004
+2018-08-30 09:44:57,808 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IDMF006
+2018-08-30 09:44:57,865 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFFV023
+2018-08-30 09:44:57,916 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFGD074
+2018-08-30 09:44:57,970 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383253
+2018-08-30 09:44:58,104 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH7011
+2018-08-30 09:44:58,156 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH8007
+2018-08-30 09:44:58,208 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381807
+2018-08-30 09:44:58,400 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFHN003
+2018-08-30 09:44:58,453 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFHZ009
+2018-08-30 09:44:58,508 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFHZ014
+2018-08-30 09:44:58,562 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG70006
+2018-08-30 09:44:58,615 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380549
+2018-08-30 09:44:58,746 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG7E090
+2018-08-30 09:44:58,798 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG7F036
+2018-08-30 09:44:58,849 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGEY002
+2018-08-30 09:44:58,903 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383260
+2018-08-30 09:44:59,099 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGF1037
+2018-08-30 09:44:59,149 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IGF8002
+2018-08-30 09:44:59,201 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II7V003
+2018-08-30 09:44:59,253 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II7V005
+2018-08-30 09:44:59,309 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380366
+2018-08-30 09:44:59,438 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II9H019
+2018-08-30 09:44:59,493 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IIAR002
+2018-08-30 09:44:59,546 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IIBB002
+2018-08-30 09:44:59,598 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IIJS088
+2018-08-30 09:44:59,652 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IIJS098
+2018-08-30 09:44:59,712 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILBI023
+2018-08-30 09:44:59,766 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385597
+2018-08-30 09:44:59,897 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILC7012
+2018-08-30 09:44:59,949 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILEB008
+2018-08-30 09:45:00,004 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381398
+2018-08-30 09:45:00,138 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILF5013
+2018-08-30 09:45:00,192 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 379656
+2018-08-30 09:45:00,383 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67ILNT003
+2018-08-30 09:45:00,436 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM09006
+2018-08-30 09:45:00,490 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381961
+2018-08-30 09:45:00,620 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385523
+2018-08-30 09:45:00,749 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380382
+2018-08-30 09:45:00,876 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM84002
+2018-08-30 09:45:00,930 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384997
+2018-08-30 09:45:01,075 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386317
+2018-08-30 09:45:01,210 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384154
+2018-08-30 09:45:01,344 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOEP025
+2018-08-30 09:45:01,396 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383018
+2018-08-30 09:45:01,592 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOES013
+2018-08-30 09:45:01,646 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IOEX010
+2018-08-30 09:45:01,698 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380391
+2018-08-30 09:45:01,834 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385003
+2018-08-30 09:45:01,966 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381852
+2018-08-30 09:45:02,161 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWSG002
+2018-08-30 09:45:02,213 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-62IVUL011
+2018-08-30 09:45:02,264 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64ILM5004
+2018-08-30 09:45:02,316 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IVY9008
+2018-08-30 09:45:02,374 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-64IW00001
+2018-08-30 09:45:02,426 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385240
+2018-08-30 09:45:02,619 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65I92Y011
+2018-08-30 09:45:02,671 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385248
+2018-08-30 09:45:02,803 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-65IIKB001
+2018-08-30 09:45:02,854 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384489
+2018-08-30 09:45:02,988 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381688
+2018-08-30 09:45:03,117 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386494
+2018-08-30 09:45:03,248 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I0HD034
+2018-08-30 09:45:03,299 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383156
+2018-08-30 09:45:03,431 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 387035
+2018-08-30 09:45:03,562 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381174
+2018-08-30 09:45:03,694 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I3IS008
+2018-08-30 09:45:03,747 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380052
+2018-08-30 09:45:03,882 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380500
+2018-08-30 09:45:04,018 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383166
+2018-08-30 09:45:04,154 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66I91K009
+2018-08-30 09:45:04,208 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IADJ002
+2018-08-30 09:45:04,259 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381084
+2018-08-30 09:45:04,390 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-66IDKZ003
+2018-08-30 09:45:04,443 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I5BT003
+2018-08-30 09:45:04,494 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I5KX001
+2018-08-30 09:45:04,545 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385705
+2018-08-30 09:45:04,675 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I6SY048
+2018-08-30 09:45:04,733 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I6TB073
+2018-08-30 09:45:04,789 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I8ZL018
+2018-08-30 09:45:04,843 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380128
+2018-08-30 09:45:04,973 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I8ZL053
+2018-08-30 09:45:05,031 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I8ZN023
+2018-08-30 09:45:05,083 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382797
+2018-08-30 09:45:05,215 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 386209
+2018-08-30 09:45:05,408 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I8ZW007
+2018-08-30 09:45:05,463 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383880
+2018-08-30 09:45:05,594 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I91L014
+2018-08-30 09:45:05,648 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I91V031
+2018-08-30 09:45:05,701 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68I91Z003
+2018-08-30 09:45:05,754 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382661
+2018-08-30 09:45:05,886 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380711
+2018-08-30 09:45:06,019 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385496
+2018-08-30 09:45:06,147 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IAB4005
+2018-08-30 09:45:06,203 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385810
+2018-08-30 09:45:06,336 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 384906
+2018-08-30 09:45:06,470 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IW3V027
+2018-08-30 09:45:06,523 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380249
+2018-08-30 09:45:06,659 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWEC009
+2018-08-30 09:45:06,711 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWH7010
+2018-08-30 09:45:06,763 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383961
+2018-08-30 09:45:06,900 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWM4002
+2018-08-30 09:45:06,951 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWNP005
+2018-08-30 09:45:07,003 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWPO011
+2018-08-30 09:45:07,057 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-68IWRV012
+2018-08-30 09:45:07,107 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381562
+2018-08-30 09:45:07,237 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 385687
+2018-08-30 09:45:07,429 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 383223
+2018-08-30 09:45:07,560 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFG8025
+2018-08-30 09:45:07,611 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFGT064
+2018-08-30 09:45:07,669 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFH2001
+2018-08-30 09:45:07,720 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IFIC022
+2018-08-30 09:45:07,771 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IG7E035
+2018-08-30 09:45:07,824 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381638
+2018-08-30 09:45:07,955 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67II9D006
+2018-08-30 09:45:08,007 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 382216
+2018-08-30 09:45:08,142 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM5B035
+2018-08-30 09:45:08,195 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Insert product : 38014-67IM64020
+2018-08-30 09:45:08,250 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 380571
+2018-08-30 09:45:08,381 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.ProductUpdateManager - Update Product : ID 381826
+2018-08-30 09:56:11,900 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-30 09:56:11,981 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - Overriding limitation to a throughput of 1msg/s
+2018-08-30 09:56:11,982 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - MaxThroughputPerSecond configured unlimited
+2018-08-30 09:56:22,130 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.MessageHandlers.CommandMessageHandler - Received Message : Merchant Luisa via roma
+2018-08-30 09:56:22,144 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Delete Merchant Luisa via roma
+2018-08-30 09:56:22,245 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Done Received Data 5ac630d7-984f-4f8c-a70c-17ccfa3c8f37
+2018-08-30 09:56:22,246 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 1
+2018-08-30 09:56:27,346 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:56:32,352 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:56:37,353 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:56:42,356 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:56:47,358 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:56:49,741 [6] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Next Url /v3/catalog/?merchants=Luisa%20via%20roma&offset=1001&rows=1000&navigation_type=none
+2018-08-30 09:56:52,360 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 1
+2018-08-30 09:56:57,372 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:02,378 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:07,381 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:12,386 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:17,389 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:22,394 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:27,397 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:32,401 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:37,404 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:42,406 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:47,408 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:52,412 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:57:57,414 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:02,422 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:07,424 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:12,427 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:17,430 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:22,434 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:27,438 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:32,452 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:37,454 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:42,457 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:58:50,443 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-30 09:58:50,528 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - Overriding limitation to a throughput of 1msg/s
+2018-08-30 09:58:50,529 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - MaxThroughputPerSecond configured unlimited
+2018-08-30 09:59:00,549 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.MessageHandlers.CommandMessageHandler - Received Message : Merchant Luisa via roma
+2018-08-30 09:59:00,565 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Delete Merchant Luisa via roma
+2018-08-30 09:59:00,692 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Done Received Data 843adb0e-92f5-4937-bbc0-d022f9c382a1
+2018-08-30 09:59:00,693 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 1
+2018-08-30 09:59:05,802 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:10,804 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:15,805 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:20,808 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:25,809 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:30,815 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:35,816 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:40,821 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:45,822 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:50,824 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-08-30 09:59:55,825 [Worker.13] DEBUG LandWin.Venues.DataCollection.Services.ProcessManager.DataCollectionManager - Check  False , 0
+2018-09-04 14:27:45,309 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-09-04 14:27:45,457 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - Overriding limitation to a throughput of 1msg/s
+2018-09-04 14:27:45,458 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - MaxThroughputPerSecond configured unlimited
+2018-09-04 14:28:47,192 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-09-04 14:28:47,312 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - Overriding limitation to a throughput of 1msg/s
+2018-09-04 14:28:47,313 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - MaxThroughputPerSecond configured unlimited
+2018-09-04 14:37:27,322 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-09-04 14:37:27,432 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - Overriding limitation to a throughput of 1msg/s
+2018-09-04 14:37:27,433 [1] WARN  NobelProcera.NServiceBus.MessageThroughput - MaxThroughputPerSecond configured unlimited
+2018-09-04 14:37:37,284 [Worker.13] WARN  NServiceBus.Unicast.UnicastBus - CommandMessageHandler failed handling message.
+StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily System.Data.IDbTransaction, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 31
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.NServiceBus.ObjectBuilder.IBuilder.BuildAndDispatch(Type typeToBuild, Action`1 action)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.UnicastBus.DispatchMessageToHandlersBasedOnType(IBuilder builder, Object toHandle)
+2018-09-04 14:37:37,333 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Failed raising 'transport message received' event for message with ID=d8acf032-33a5-421e-9f89-0756725861ab\159758
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2018-09-04 14:37:37,351 [Worker.13] WARN  NServiceBus.Unicast.UnicastBus - CommandMessageHandler failed handling message.
+StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily System.Data.IDbTransaction, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 31
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.NServiceBus.ObjectBuilder.IBuilder.BuildAndDispatch(Type typeToBuild, Action`1 action)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.UnicastBus.DispatchMessageToHandlersBasedOnType(IBuilder builder, Object toHandle)
+2018-09-04 14:37:37,368 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Failed raising 'transport message received' event for message with ID=d8acf032-33a5-421e-9f89-0756725861ab\159758
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2018-09-04 14:37:37,378 [Worker.13] WARN  NServiceBus.Unicast.UnicastBus - CommandMessageHandler failed handling message.
+StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily System.Data.IDbTransaction, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 31
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.NServiceBus.ObjectBuilder.IBuilder.BuildAndDispatch(Type typeToBuild, Action`1 action)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.UnicastBus.DispatchMessageToHandlersBasedOnType(IBuilder builder, Object toHandle)
+2018-09-04 14:37:37,398 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Failed raising 'transport message received' event for message with ID=d8acf032-33a5-421e-9f89-0756725861ab\159758
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2018-09-04 14:37:37,405 [Worker.13] WARN  NServiceBus.Unicast.UnicastBus - CommandMessageHandler failed handling message.
+StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily System.Data.IDbTransaction, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 31
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.NServiceBus.ObjectBuilder.IBuilder.BuildAndDispatch(Type typeToBuild, Action`1 action)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.UnicastBus.DispatchMessageToHandlersBasedOnType(IBuilder builder, Object toHandle)
+2018-09-04 14:37:37,422 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Failed raising 'transport message received' event for message with ID=d8acf032-33a5-421e-9f89-0756725861ab\159758
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2018-09-04 14:37:37,430 [Worker.13] WARN  NServiceBus.Unicast.UnicastBus - CommandMessageHandler failed handling message.
+StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily System.Data.IDbTransaction, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 31
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.NServiceBus.ObjectBuilder.IBuilder.BuildAndDispatch(Type typeToBuild, Action`1 action)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.UnicastBus.DispatchMessageToHandlersBasedOnType(IBuilder builder, Object toHandle)
+2018-09-04 14:37:37,446 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Failed raising 'transport message received' event for message with ID=d8acf032-33a5-421e-9f89-0756725861ab\159758
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2018-09-04 14:37:37,514 [Worker.13] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport - Message has failed the maximum number of times allowed, ID=d8acf032-33a5-421e-9f89-0756725861ab\159758.

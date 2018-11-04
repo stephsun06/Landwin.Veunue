@@ -1,0 +1,152 @@
+2018-08-16 15:21:20,041 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:21:20,107 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:21:20,116 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:21:20,219 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:21:20,231 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:21:20,236 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:21:20,343 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:21:20,355 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:39:46,198 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:39:46,269 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:39:46,278 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:39:46,401 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:39:46,426 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:39:46,440 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:39:46,575 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:39:46,583 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:40:59,130 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:40:59,203 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:40:59,212 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:40:59,319 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:40:59,330 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:40:59,337 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:40:59,447 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:40:59,455 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:42:19,548 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:42:19,626 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:42:19,636 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:42:19,741 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:42:19,754 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:42:19,760 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:42:19,865 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:42:19,872 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:43:29,124 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:43:29,198 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:43:29,207 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:43:29,313 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:43:29,324 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:43:29,334 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:43:29,443 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:43:29,451 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:44:09,242 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:44:09,316 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:44:09,326 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:44:09,436 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:44:09,447 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:44:09,454 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:44:09,571 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:44:09,581 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:45:58,058 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:45:58,127 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:45:58,136 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:45:58,253 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:45:58,264 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:45:58,271 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:45:58,382 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:45:58,391 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:47:06,895 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:47:06,965 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:47:06,975 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:47:07,085 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:47:07,101 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:47:07,108 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:47:07,213 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:47:07,223 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:48:07,525 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:48:07,593 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:48:07,602 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:48:07,726 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:48:07,739 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:48:07,746 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:48:07,855 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:48:07,865 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:50:06,507 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:50:06,574 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:50:06,584 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:50:06,695 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:50:06,708 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:50:06,715 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:50:06,844 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:50:06,856 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:54:02,166 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:54:02,235 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:54:02,245 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:54:02,358 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:54:02,372 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:54:02,379 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:54:02,487 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:54:02,497 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:56:03,961 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:56:04,040 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:56:04,050 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:56:04,153 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:56:04,166 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:56:04,173 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:56:04,285 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:56:04,293 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:57:04,357 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 15:57:04,425 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 15:57:04,434 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 15:57:04,553 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 15:57:04,566 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 15:57:04,573 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 15:57:04,709 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 15:57:04,717 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:00:10,122 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:00:10,191 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:00:10,203 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:00:10,312 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:00:10,323 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:00:10,330 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:00:10,447 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:00:10,457 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:06:12,873 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:06:12,946 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:06:12,958 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:06:13,065 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:06:13,078 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:06:13,086 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:06:13,199 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:06:13,207 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:19:39,451 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:19:39,522 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:19:39,533 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:19:39,647 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:19:39,659 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:19:39,667 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:19:39,782 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:19:39,792 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:21:23,734 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:21:23,806 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:21:23,817 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:21:23,928 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:21:23,940 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:21:23,948 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:21:24,059 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:21:24,067 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:23:56,156 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:23:56,240 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:23:56,250 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:23:56,360 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:23:56,373 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:23:56,381 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:23:56,491 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:23:56,500 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:24:38,883 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-08-16 16:24:38,966 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataCollection.Services\bin\Debug\License\License.xml
+2018-08-16 16:24:38,975 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-08-16 16:24:39,085 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-08-16 16:24:39,098 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - Overriding limitation to a throughput of 1msg/s
+2018-08-16 16:24:39,108 [1] WARN  NobelProcera.NServiceBus.MessageThroughput [(null)] <(null)> - MaxThroughputPerSecond configured unlimited
+2018-08-16 16:24:39,222 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-08-16 16:24:39,230 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c

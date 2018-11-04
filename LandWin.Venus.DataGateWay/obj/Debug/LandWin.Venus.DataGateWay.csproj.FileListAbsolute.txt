@@ -1,0 +1,15 @@
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\LandWin.Venus.DataGateWay.dll
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\LandWin.Venus.DataGateWay.pdb
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\Dapper.dll
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\Dapper.xml
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.csprojResolveAssemblyReference.cache
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.csproj.CoreCompileInputs.cache
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.dll
+H:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.pdb
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\LandWin.Venus.DataGateWay.dll
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\LandWin.Venus.DataGateWay.pdb
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\Dapper.dll
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\bin\Debug\Dapper.xml
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.csprojResolveAssemblyReference.cache
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.dll
+D:\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\obj\Debug\LandWin.Venus.DataGateWay.pdb

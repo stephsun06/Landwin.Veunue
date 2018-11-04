@@ -1,0 +1,6 @@
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\bin\Debug\LandWin.Venues.DataUpdate.Commands.dll
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\bin\Debug\LandWin.Venues.DataUpdate.Commands.pdb
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\obj\Debug\LandWin.Venues.DataUpdate.Commands.csproj.CoreCompileInputs.cache
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\obj\Debug\LandWin.Venues.DataUpdate.Commands.dll
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\obj\Debug\LandWin.Venues.DataUpdate.Commands.pdb
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.DataUpdate.Commands\obj\Debug\LandWin.Venues.DataUpdate.Commands.csprojResolveAssemblyReference.cache

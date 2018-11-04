@@ -1,0 +1,2 @@
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\Landwin.Venus.ImageDownload.Console\obj\Debug\Landwin.Venus.ImageDownload.Console.csprojResolveAssemblyReference.cache
+C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\Landwin.Venus.ImageDownload.Console\obj\Debug\Landwin.Venus.ImageDownload.Console.csproj.CoreCompileInputs.cache

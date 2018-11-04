@@ -1,0 +1,246 @@
+2018-06-01 09:38:58,358 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 09:38:58,420 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 09:38:58,463 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 09:38:58,528 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 09:38:58,652 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 09:38:58,659 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 09:39:07,535 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - StructureMap.StructureMapException: StructureMap Exception Code:  207
+Internal exception while creating Instance '961ac965-c515-4e89-8f54-45f6eb402fb8' of PluginType NServiceBus.IWantToRunAtStartup, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.  Check the inner exception for more details. ---> StructureMap.StructureMapException: StructureMap Exception Code:  202
+No Default Instance defined for PluginFamily LandWin.Venus.DataGateWay.Repositories.IProductRepository, LandWin.Venus.DataGateWay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+   at StructureMap.BuildSession.<.ctor>b__0(Type t) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.Util.Cache`2.get_Item(KEY key) in c:\code\structuremap\Source\StructureMap\Util\Cache.cs:line 83
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.DefaultInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\DefaultInstance.cs:line 22
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get(String propertyName, Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 74
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at StructureMap.Pipeline.Arguments.Get[T](String propertyName) in c:\code\structuremap\Source\StructureMap\Pipeline\Arguments.cs:line 18
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.BuildSession.GetInstance[T]() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 78
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapExtensions.Registration`2.<RegisterServiceInterface>b__0(IContext ctx)
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 25
+   --- End of inner exception stack trace ---
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 29
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.CreateInstanceArray(Type pluginType, Instance[] instances) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 178
+   at StructureMap.Container.GetAllInstances(Type pluginType) in c:\code\structuremap\Source\StructureMap\Container.cs:line 310
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapObjectBuilder.NServiceBus.ObjectBuilder.Common.IContainer.BuildAll(Type typeToBuild)
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.<NServiceBus.ObjectBuilder.IBuilder.BuildAll>d__1`1.MoveNext()
+   at NServiceBus.Hosting.Configuration.ConfigManager.Startup() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\Configuration\ConfigurationManager.cs:line 61
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 35
+2018-06-01 09:57:34,657 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 09:57:34,721 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 09:57:34,759 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 09:57:34,830 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 09:57:34,974 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 09:57:34,982 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 09:57:43,892 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - StructureMap.StructureMapException: StructureMap Exception Code:  207
+Internal exception while creating Instance '62f1ffc5-7a8f-46d7-a0d5-8e023ad72c37' of PluginType NServiceBus.IWantToRunAtStartup, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.  Check the inner exception for more details. ---> StructureMap.StructureMapException: StructureMap Exception Code:  207
+Internal exception while creating Instance 'b55c6ad4-5179-42d5-a981-ac17261923b1' of PluginType LandWin.Venus.DataGateWay.Repositories.IUnitOfWork.  Check the inner exception for more details. ---> System.Exception: Unable to get connectionstring for key: LW_MAH-LKIMD ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetConnectionString() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 24
+   --- End of inner exception stack trace ---
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetConnectionString() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 28
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetOpenConnection() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 13
+   at LandWin.Venus.DataGateWay.Repositories.DapperUnitOfWork..ctor(IDbConnectionFactory connectionFactory) in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\DapperUnitOfWork.cs:line 15
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 233
+   --- End of inner exception stack trace ---
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 245
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.DefaultInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\DefaultInstance.cs:line 22
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get(String propertyName, Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 74
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at StructureMap.Pipeline.Arguments.Get[T](String propertyName) in c:\code\structuremap\Source\StructureMap\Pipeline\Arguments.cs:line 18
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.DefaultInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\DefaultInstance.cs:line 22
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get(String propertyName, Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 74
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at StructureMap.Pipeline.Arguments.Get[T](String propertyName) in c:\code\structuremap\Source\StructureMap\Pipeline\Arguments.cs:line 18
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.BuildSession.GetInstance[T]() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 78
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapExtensions.Registration`2.<RegisterServiceInterface>b__0(IContext ctx)
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 25
+   --- End of inner exception stack trace ---
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 29
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.CreateInstanceArray(Type pluginType, Instance[] instances) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 178
+   at StructureMap.Container.GetAllInstances(Type pluginType) in c:\code\structuremap\Source\StructureMap\Container.cs:line 310
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapObjectBuilder.NServiceBus.ObjectBuilder.Common.IContainer.BuildAll(Type typeToBuild)
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.<NServiceBus.ObjectBuilder.IBuilder.BuildAll>d__1`1.MoveNext()
+   at NServiceBus.Hosting.Configuration.ConfigManager.Startup() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\Configuration\ConfigurationManager.cs:line 61
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 35
+2018-06-01 10:00:55,700 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:00:55,757 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:00:55,791 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:00:55,853 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:00:55,982 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:00:55,989 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:01:05,124 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - StructureMap.StructureMapException: StructureMap Exception Code:  207
+Internal exception while creating Instance '188440cb-9095-4c3d-91f9-460b42346966' of PluginType NServiceBus.IWantToRunAtStartup, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.  Check the inner exception for more details. ---> StructureMap.StructureMapException: StructureMap Exception Code:  207
+Internal exception while creating Instance '0b0061cf-d264-491e-a358-eecf5d55faf8' of PluginType LandWin.Venus.DataGateWay.Repositories.IUnitOfWork.  Check the inner exception for more details. ---> System.Exception: Unable to get connectionstring for key: LW_MAH-LKIMD ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetConnectionString() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 24
+   --- End of inner exception stack trace ---
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetConnectionString() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 28
+   at LandWin.Venus.DataGateWay.Repositories.SqlConnectionFactory.GetOpenConnection() in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\SqlConnectionFactory.cs:line 13
+   at LandWin.Venus.DataGateWay.Repositories.DapperUnitOfWork..ctor(IDbConnectionFactory connectionFactory) in c:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGateWay\Repositories\DapperUnitOfWork.cs:line 15
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 233
+   --- End of inner exception stack trace ---
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 245
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.DefaultInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\DefaultInstance.cs:line 22
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get(String propertyName, Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 74
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at StructureMap.Pipeline.Arguments.Get[T](String propertyName) in c:\code\structuremap\Source\StructureMap\Pipeline\Arguments.cs:line 18
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.SmartInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\SmartInstance.cs:line 156
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.Pipeline.DefaultInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\DefaultInstance.cs:line 22
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ConstructorInstance.Get(String propertyName, Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 74
+   at StructureMap.Pipeline.ConstructorInstance.Get[T](String propertyName, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 79
+   at StructureMap.Pipeline.Arguments.Get[T](String propertyName) in c:\code\structuremap\Source\StructureMap\Pipeline\Arguments.cs:line 18
+   at lambda_method(Closure , IArguments )
+   at StructureMap.Construction.BuilderCompiler.FuncCompiler`1.<>c__DisplayClass2.<CreateBuilder>b__0(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\BuilderCompiler.cs:line 56
+   at StructureMap.Construction.InstanceBuilder.BuildInstance(IArguments args) in c:\code\structuremap\Source\StructureMap\Construction\InstanceBuilder.cs:line 34
+   at StructureMap.Pipeline.ConstructorInstance.Build(Type pluginType, BuildSession session, IInstanceBuilder builder) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 237
+   at StructureMap.Pipeline.ConstructorInstance.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ConstructorInstance.cs:line 218
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.<>c__DisplayClass3.<.ctor>b__1() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 34
+   at StructureMap.BuildSession.CreateInstance(Type pluginType) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 192
+   at StructureMap.BuildSession.GetInstance[T]() in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 78
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapExtensions.Registration`2.<RegisterServiceInterface>b__0(IContext ctx)
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 25
+   --- End of inner exception stack trace ---
+   at StructureMap.Pipeline.LambdaInstance`1.build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\LambdaInstance.cs:line 29
+   at StructureMap.Pipeline.Instance.createRawObject(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 103
+   at StructureMap.Pipeline.Instance.Build(Type pluginType, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\Instance.cs:line 69
+   at StructureMap.Pipeline.ObjectBuilder.ConstructNew(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 39
+   at StructureMap.Pipeline.ObjectBuilder.Resolve(Type pluginType, Instance instance, BuildSession session) in c:\code\structuremap\Source\StructureMap\Pipeline\ObjectBuilder.cs:line 27
+   at StructureMap.BuildSession.CreateInstance(Type pluginType, Instance instance) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 153
+   at StructureMap.BuildSession.CreateInstanceArray(Type pluginType, Instance[] instances) in c:\code\structuremap\Source\StructureMap\BuildSession.cs:line 178
+   at StructureMap.Container.GetAllInstances(Type pluginType) in c:\code\structuremap\Source\StructureMap\Container.cs:line 310
+   at NServiceBus.ObjectBuilder.StructureMap.StructureMapObjectBuilder.NServiceBus.ObjectBuilder.Common.IContainer.BuildAll(Type typeToBuild)
+   at NServiceBus.ObjectBuilder.Common.CommonObjectBuilder.<NServiceBus.ObjectBuilder.IBuilder.BuildAll>d__1`1.MoveNext()
+   at NServiceBus.Hosting.Configuration.ConfigManager.Startup() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\Configuration\ConfigurationManager.cs:line 61
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_8\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 35
+2018-06-01 10:01:48,027 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:01:48,084 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:01:48,118 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:01:48,184 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:01:48,305 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:01:48,310 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:02:54,284 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:02:54,341 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:02:54,375 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:02:54,438 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:02:54,560 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:02:54,567 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:04:52,698 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:04:52,758 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:04:52,790 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:04:52,854 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:04:52,971 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:04:52,977 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:18:48,490 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:18:48,551 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:18:48,584 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:18:48,645 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:18:48,771 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:18:48,777 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:19:46,075 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:19:46,130 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:19:46,163 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:19:46,224 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:19:46,344 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:19:46,350 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:23:00,399 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2018-06-01 10:23:00,459 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venus.DataGatewayin.Serivces\bin\Debug\License\License.xml
+2018-06-01 10:23:00,492 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2018-06-01 10:23:00,559 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2018-06-01 10:23:00,681 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2018-06-01 10:23:00,687 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c

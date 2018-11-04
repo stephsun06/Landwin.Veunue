@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venus.DataGateWay", "LandWin.Venus.DataGateWay\LandWin.Venus.DataGateWay.csproj", "{97635A2A-EF4B-4882-BCDD-26FE3EF6DE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanwin.Venue.Client.Test", "Lanwin.Venue.Client.Test\Lanwin.Venue.Client.Test.csproj", "{8620E01B-BF9E-4784-B65D-36755D7B8B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSchedule.Test", "TaskSchedule.Test\TaskSchedule.Test.csproj", "{33B2F146-B7CC-4880-AE23-0ACBACED376F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataCollection", "LandWin.Venues.DataCollection\LandWin.Venues.DataCollection.csproj", "{F2F7F766-37CE-4B68-9DBE-BC74F6E391C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataCollection.Web", "LandWin.Venues.DataCollection.Web\LandWin.Venues.DataCollection.Web.csproj", "{4E0773D7-EAAD-4FE0-8393-AF9DECD1B4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataCollection.Commands", "LandWin.Venues.DataCollection.Commands\LandWin.Venues.DataCollection.Commands.csproj", "{39247198-DA2F-4AA7-9B39-17FF8D30F83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataCollection.Services", "LandWin.Venues.DataCollection.Services\LandWin.Venues.DataCollection.Services.csproj", "{482B2B00-BABA-436B-B770-81779603D6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.Domain.Dapper", "LandWin.Venues.Domain.Dapper\LandWin.Venues.Domain.Dapper.csproj", "{CE6E5258-21F8-484F-BA28-AD125796B037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataUpdate.Services", "LandWin.Venues.DataUpdate.Services\LandWin.Venues.DataUpdate.Services.csproj", "{2AAC3C7D-19D7-4C98-97CD-639492C24D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin.Venues.DataUpdate.Commands", "LandWin.Venues.DataUpdate.Commands\LandWin.Venues.DataUpdate.Commands.csproj", "{4F6A77DB-8453-466B-AD42-0A878CCAF893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97635A2A-EF4B-4882-BCDD-26FE3EF6DE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97635A2A-EF4B-4882-BCDD-26FE3EF6DE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97635A2A-EF4B-4882-BCDD-26FE3EF6DE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97635A2A-EF4B-4882-BCDD-26FE3EF6DE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8620E01B-BF9E-4784-B65D-36755D7B8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8620E01B-BF9E-4784-B65D-36755D7B8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8620E01B-BF9E-4784-B65D-36755D7B8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8620E01B-BF9E-4784-B65D-36755D7B8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B2F146-B7CC-4880-AE23-0ACBACED376F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B2F146-B7CC-4880-AE23-0ACBACED376F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B2F146-B7CC-4880-AE23-0ACBACED376F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B2F146-B7CC-4880-AE23-0ACBACED376F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F7F766-37CE-4B68-9DBE-BC74F6E391C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F7F766-37CE-4B68-9DBE-BC74F6E391C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F7F766-37CE-4B68-9DBE-BC74F6E391C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F7F766-37CE-4B68-9DBE-BC74F6E391C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0773D7-EAAD-4FE0-8393-AF9DECD1B4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0773D7-EAAD-4FE0-8393-AF9DECD1B4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0773D7-EAAD-4FE0-8393-AF9DECD1B4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0773D7-EAAD-4FE0-8393-AF9DECD1B4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39247198-DA2F-4AA7-9B39-17FF8D30F83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39247198-DA2F-4AA7-9B39-17FF8D30F83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39247198-DA2F-4AA7-9B39-17FF8D30F83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39247198-DA2F-4AA7-9B39-17FF8D30F83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482B2B00-BABA-436B-B770-81779603D6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482B2B00-BABA-436B-B770-81779603D6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482B2B00-BABA-436B-B770-81779603D6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482B2B00-BABA-436B-B770-81779603D6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6E5258-21F8-484F-BA28-AD125796B037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6E5258-21F8-484F-BA28-AD125796B037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6E5258-21F8-484F-BA28-AD125796B037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6E5258-21F8-484F-BA28-AD125796B037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAC3C7D-19D7-4C98-97CD-639492C24D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAC3C7D-19D7-4C98-97CD-639492C24D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAC3C7D-19D7-4C98-97CD-639492C24D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAC3C7D-19D7-4C98-97CD-639492C24D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6A77DB-8453-466B-AD42-0A878CCAF893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6A77DB-8453-466B-AD42-0A878CCAF893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6A77DB-8453-466B-AD42-0A878CCAF893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6A77DB-8453-466B-AD42-0A878CCAF893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3CBD20-9F67-427D-9DB8-A210352B69C7}
+	EndGlobalSection
+EndGlobal
