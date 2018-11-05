@@ -8,6 +8,6 @@ namespace LandWin.Venues.DataCollection.Services.ProcessManager
 {
     public interface IDataCollectionManager
     {
-        string Run(string merchant);
+      void Run(string merchant);
     }
 }

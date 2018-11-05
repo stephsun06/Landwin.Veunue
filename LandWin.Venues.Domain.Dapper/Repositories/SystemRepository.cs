@@ -8,7 +8,7 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
 {
     public class SystemRepository : DapperRepository, ISystemRepository 
     {
-        public SystemRepository(IDbTransaction unitOfWork) : base(unitOfWork) { }
+        public SystemRepository(IUnitOfWork unitOfWork) : base(unitOfWork) { }
         
         public IEnumerable<SystemValue> GetSystemValues()
         {

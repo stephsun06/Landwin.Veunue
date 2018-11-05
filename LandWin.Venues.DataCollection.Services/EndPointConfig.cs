@@ -42,11 +42,10 @@ namespace LandWin.Venues.DataCollection.Services
 
                 x.For<IMerchantRepository>().Use<MerchantRepository>();
                 x.For<ISystemRepository>().Use<SystemRepository>();
-                x.For<IVenueProductRepository>().Use<VenueProductRepository>();
 
                 x.For<ISystemConfiguration>().Singleton().Use<SystemConfiguration>();
                 x.For<IDataCollectionManager>().Use<DataCollectionManager>();
-                x.For<IProductUpdateManager>().Use<ProductUpdateManager>();
+               
           
             });
         }

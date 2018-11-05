@@ -10,6 +10,7 @@ namespace LandWin.Venues.Domain.Dapper.Entities
         public long ProductId { get; set; }
         public decimal RetailPrice { get; set; }
         public string FileName { get; set; }
+        public string Sizes { get; set; }
         
     }
 }

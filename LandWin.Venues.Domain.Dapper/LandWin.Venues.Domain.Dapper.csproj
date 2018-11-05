@@ -61,7 +61,7 @@
     <Compile Include="IUnitOfWork.cs" />
     <Compile Include="Repositories\IVenueProductRepository.cs" />
     <Compile Include="Repositories\MerchantRepository.cs" />
-    <Compile Include="Repositories\RepositoryBase.cs" />
+    <Compile Include="Repositories\Repository.cs" />
     <Compile Include="Repositories\SystemRepository.cs" />
     <Compile Include="Repositories\VenueProductRepository.cs" />
     <Compile Include="SqlConnectionFactory.cs" />

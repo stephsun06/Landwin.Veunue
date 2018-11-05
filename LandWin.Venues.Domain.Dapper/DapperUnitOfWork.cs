@@ -4,11 +4,55 @@ using System.Data;
 
 namespace LandWin.Venues.Domain.Dapper
 {
-    public class DapperUnitOfWork : IUnitOfWork 
+    public class DapperUnitOfWork : IUnitOfWork
     {
-        private IDbConnection _connection;
-        private IDbTransaction _transaction;
+        private IDbConnection connection;
+        private IDbTransaction transaction;
+        public Guid Id { get; private set; }
 
-        private bool _disposed;
+        public DapperUnitOfWork(IDbConnectionFactory connectionFactory)
+        {
+            connection = connectionFactory.GetOpenConnection();
+            Id = Guid.NewGuid();
+        }
+
+        public void Begin(IsolationLevel isolation = IsolationLevel.ReadUncommitted)
+        {
+            transaction = connection.BeginTransaction(isolation);
+        }
+
+        public void Commit()
+        {
+            transaction.Commit();
+            transaction = null;
+        }
+
+        public void Rollback()
+        {
+            transaction.Rollback();
+            transaction = null;
+        }
+
+        public IDbConnection GetActiveConnection()
+        {
+            return connection;
+        }
+
+        public IDbTransaction GetActiveTransaction()
+        {
+            return transaction;
+        }
+
+        public void Dispose()
+        {
+            if (connection.State != ConnectionState.Closed)
+            {
+                if (transaction != null)
+                    transaction.Rollback();
+                connection.Close();
+                connection = null;
+            }
+            GC.SuppressFinalize(this);
+        }
     }
 }

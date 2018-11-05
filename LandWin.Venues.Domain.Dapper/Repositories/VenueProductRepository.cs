@@ -13,7 +13,7 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
     {
       
 
-        public VenueProductRepository(IDbTransaction unitOfWork) :base(unitOfWork)
+        public VenueProductRepository(IUnitOfWork unitOfWork) :base(unitOfWork)
         {
        
             
@@ -51,10 +51,10 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
            
         }
 
-        public VenueProduct GetProduct(string partNumber)
+        public VenueProduct GetProduct(string partNumber , string merchant)
         {
            
-                return Connection.Query<VenueProduct>("GetProductByPartNo", new { PartNumber = partNumber }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+                return Connection.Query<VenueProduct>("GetProductByPartNo", new { PartNumber = partNumber , Merchant = merchant }, commandType: CommandType.StoredProcedure).FirstOrDefault();
            
         }
 
@@ -72,7 +72,7 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
            
         }
 
-        public long InsertColor(VenueProductColor color)
+        public void InsertColor(VenueProductColor color)
         {
            
 
@@ -81,14 +81,14 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
                     Color = color.ColorName,
                     RetailPrice = color.RetailPrice,
                     ImageUrl = color.ImageUrl,
-                    ProductId = color.ProductId
+                    ProductId = color.ProductId,
+                    Sizes = color.Sizes
                 });
 
-                p.Add("@newId", DbType.Int64, direction: ParameterDirection.Output);
-
+               
               
                 Connection.Execute("InsertProductColor", p, commandType: CommandType.StoredProcedure);
-                return p.Get<dynamic>("newId");
+         
           
         }
 

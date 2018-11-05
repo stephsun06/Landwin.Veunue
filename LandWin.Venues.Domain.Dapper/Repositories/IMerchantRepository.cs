@@ -9,5 +9,9 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
     {
         IEnumerable<Merchant> GetMerchants();
         void InsertCatalogLog(string id, DateTime receivdDateTime, string merchantName , string gourpID);
+
+        IEnumerable<Category> GetCategories(string merchant);
+
+        int InsertMerchantCategory(string merchant, string categoryName);
     }
 }

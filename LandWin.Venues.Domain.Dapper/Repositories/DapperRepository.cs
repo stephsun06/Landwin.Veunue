@@ -5,10 +5,10 @@ using System.Transactions;
 
 namespace LandWin.Venues.Domain.Dapper.Repositories
 {
-    public class DapperRepository : RepositoryBase
+    public class DapperRepository : Repository
     {
 
-        public DapperRepository(IDbTransaction unitofWork) : base(unitofWork) { }
+        public DapperRepository(IUnitOfWork unitofWork) : base(unitofWork) { }
 
         public void SqlExecute(string storedProd, DynamicParameters p, bool returnError = false)
         {

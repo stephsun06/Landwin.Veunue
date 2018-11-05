@@ -6,11 +6,12 @@ namespace LandWin.Venues.Domain.Dapper
 {
     public interface IUnitOfWork : IDisposable
     {
-        ISystemRepository SystemRepository { get; }
-        IVenueProductRepository VenueProductRepository { get; }
-        IMerchantRepository MerchantRepository { get; }
-
+        Guid Id { get; }
+        void Begin(IsolationLevel isolation = IsolationLevel.ReadUncommitted);
         void Commit();
+        void Rollback();
+        IDbConnection GetActiveConnection();
+        IDbTransaction GetActiveTransaction();
     }
 }
 

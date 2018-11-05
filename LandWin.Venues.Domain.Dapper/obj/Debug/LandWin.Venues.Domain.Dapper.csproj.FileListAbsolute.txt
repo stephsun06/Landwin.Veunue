@@ -7,3 +7,12 @@ C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatew
 C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.dll
 C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.pdb
 C:\Users\USDOKI\source\repos\LandWin.Venus11.Project\src\LandWin.Venus.DataGatewayIn.Service\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.csprojResolveAssemblyReference.cache
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\bin\Debug\LandWin.Venues.Domain.Dapper.dll
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\bin\Debug\LandWin.Venues.Domain.Dapper.pdb
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\bin\Debug\Dapper.dll
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\bin\Debug\Dapper.xml
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.csprojResolveAssemblyReference.cache
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.csproj.CoreCompileInputs.cache
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.csproj.CopyComplete
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.dll
+C:\Personal\Project\Landwin.Veunue\LandWin.Venues.Domain.Dapper\obj\Debug\LandWin.Venues.Domain.Dapper.pdb

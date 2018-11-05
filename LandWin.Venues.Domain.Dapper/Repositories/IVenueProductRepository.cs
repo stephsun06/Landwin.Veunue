@@ -12,11 +12,11 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
 
         IEnumerable<CatalogLog> GetCatalogs(string groupId);
         IEnumerable<Category> GetCategories(string merchant);
-        VenueProduct GetProduct(string partNumber);
+        VenueProduct GetProduct(string partNumber , string merchant);
         IEnumerable<VenueProductColor> GetProductColors(long id);
         IEnumerable<VenueProductColorSize> GetProductColorSizes(long id);
         long InsertProduct(VenueProduct product);
-        long InsertColor(VenueProductColor color);
+        void InsertColor(VenueProductColor color);
         void InsertSize(VenueProductColorSize size);
         void UpdateProduct(VenueProduct product);
         void UpdateColor(VenueProductColor color);

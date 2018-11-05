@@ -62,9 +62,9 @@ namespace LandWin.Venues.DataCollection.Services.ProcessManager
 
             if (log == null) return ;
 
-            _groupId = new Guid();
+            _groupId = Guid.NewGuid();
 
-            _log.DebugFormat("Delete Merchant {0}", merchant);
+            _log.DebugFormat("Delete Merchant {0}", merchant , log.Url);
 
             _productLogRepository.Delete(merchant);
 
@@ -115,6 +115,7 @@ namespace LandWin.Venues.DataCollection.Services.ProcessManager
                 var result = t.Result;
                 if (result != null)
                 {
+                   
                     var item = _productLogRepository.InsertLog(
                        new ProductLog()
                        {
@@ -124,6 +125,7 @@ namespace LandWin.Venues.DataCollection.Services.ProcessManager
                            
                        });
 
+                    _log.DebugFormat(item.Id);
                     foreach(var production in result.products)
                     {
                         

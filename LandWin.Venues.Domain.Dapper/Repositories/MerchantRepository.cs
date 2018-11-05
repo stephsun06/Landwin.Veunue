@@ -8,10 +8,14 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
 {
     public class MerchantRepository : DapperRepository, IMerchantRepository
     {
-        public MerchantRepository(IDbTransaction unitOfWork) : base(unitOfWork) { }
-        
+        public MerchantRepository(IUnitOfWork unitOfWork) : base(unitOfWork) { }
 
-        public IEnumerable<Merchant> GetMerchants()
+        public IEnumerable<Category> GetCategories(string merchant)
+        {
+            return Connection.Query<Category>("GetMerchantCategory", new { Merchant = merchant }, commandType: CommandType.StoredProcedure);
+        }
+
+            public IEnumerable<Merchant> GetMerchants()
         {
             return Connection.Query<Merchant>("GetMerchants", commandType: CommandType.StoredProcedure);
         }
@@ -31,6 +35,21 @@ namespace LandWin.Venues.Domain.Dapper.Repositories
             SqlExecute("InsertCatalogLog", p , true);
             
 
+        }
+
+        public int InsertMerchantCategory(string merchant, string categoryName)
+        {
+            var p = new DynamicParameters(new
+            {
+                Merchant = merchant,
+                CategoryName = categoryName,
+            
+            });
+
+            p.Add("@newId", DbType.Int32, direction: ParameterDirection.Output);
+
+            Connection.Execute("InsertMerchantCategory", p, commandType: CommandType.StoredProcedure);
+            return p.Get<dynamic>("newId");
         }
     }
 }

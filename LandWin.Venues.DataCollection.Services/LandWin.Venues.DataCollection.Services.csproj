@@ -122,13 +122,12 @@
     <Compile Include="MessageHandlers\CommandMessageHandler.cs" />
     <Compile Include="ProcessManager\DataCollectionManager.cs" />
     <Compile Include="ProcessManager\IDataCollectionManager.cs" />
-    <Compile Include="ProcessManager\IProductUpdateManager.cs" />
-    <Compile Include="ProcessManager\ProductUpdateManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="log4net.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
